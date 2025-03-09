@@ -31,7 +31,7 @@ The **Visa Appointment Checker** is a **PowerShell script** designed to automati
    ```
 
 ## **Usage**
-Run the script periodically to check for available appointments. If slots are available, the script will notify you.
+Run the script periodically to check for available appointments. If slots are available, the script will notify you.You can also schedule a task through windows to be run automatically.
 
 ### **Command Syntax**
 ```powershell
